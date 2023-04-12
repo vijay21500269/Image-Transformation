@@ -147,6 +147,7 @@ plt.show()
 
 
 ### ii) Image Scaling
+![img3](https://github.com/vijay21500269/Image-Transformation/blob/main/img3.png)
 
 
 
