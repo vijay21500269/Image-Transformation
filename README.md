@@ -154,14 +154,17 @@ plt.show()
 
 ### iii)Image shearing
 
+![img4](https://github.com/vijay21500269/Image-Transformation/blob/main/img4.png)
 
 
 
 ### iv)Image Reflection
 
+![img5](https://github.com/vijay21500269/Image-Transformation/blob/main/img5.png)
 
 
 ### v)Image Rotation
+![img6](https://github.com/vijay21500269/Image-Transformation/blob/main/img6.png)
 
 
 
@@ -169,6 +172,7 @@ plt.show()
 
 
 
+![img7](https://github.com/vijay21500269/Image-Transformation/blob/main/img7.png)
 
 
 ## Result: 
